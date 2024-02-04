@@ -2,8 +2,18 @@ This repository contains the source code for [Deep Spectral Improvement for Unsu
 
 <img src="Diagram.png">
 
+The code has been tested with python 3.7.12 and PyTorch 1.9.1+cu111
 
+```Shell
+conda create --name specuniis
+conda activate specuniis
+```
 
+## Required Data
+To evaluate/train specuniis , you will need to download the required datasets.
+* [Youtube-Vis 2019](https://youtube-vos.org/dataset/vis/)
+* [PascalVOC2012](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
+To facilitate easy testing, you can download the YouTube-VIS2019 Annotation from here[Annotation](https://youtube-vos.org/dataset/vis/)
 
 
 
