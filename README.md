@@ -12,8 +12,8 @@ conda activate specuniis
 ## Required Data
 To evaluate/train specuniis , you will need to download the required datasets.
 * [Youtube-Vis 2019](https://youtube-vos.org/dataset/vis/)
-* [PascalVOC2012](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
-To facilitate easy testing, you can download the YouTube-VIS2019 Annotation from here[Annotation](https://youtube-vos.org/dataset/vis/)
+* [PascalVOC2012](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/) <br>
+To facilitate easy testing, you can download the YouTube-VIS2019 Annotation from [here](https://drive.google.com/file/d/1SPskvTlj1tsl0uAH_ujERSCccp65WfMf/view?usp=sharing)
 
 
 
